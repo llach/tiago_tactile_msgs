@@ -1,0 +1,16 @@
+<?xml version="1.0"?>
+<package format="2">
+  <name>tiago_tactile_msgs</name>
+  <version>0.0.1</version>
+  <description>The tiago_tactile_msgs package. Contains messages for TIAGo's tactile sensors.</description>
+
+  <maintainer email="luca.lach@pal-robotics.com">Luca Lach</maintainer>
+
+  <license>MIT</license>
+
+  <buildtool_depend>catkin</buildtool_depend>
+
+  <depend>std_msgs</depend>
+  <depend>message_runtime</depend>
+  
+</package>
