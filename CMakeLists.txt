@@ -14,6 +14,7 @@ find_package(catkin REQUIRED
 add_message_files(
         FILES
         TA11.msg
+        TA11Debug.msg
 )
 
 ## Generate added messages and services with any dependencies listed here
