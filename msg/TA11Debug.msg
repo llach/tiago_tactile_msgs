@@ -28,6 +28,7 @@ float64[] noise_treshold
 float64[] max_forces
 float64[] error_integral
 float64[] f_error_integral
+float64[] joint_times
 
 int8 c_state
 int8 vel_limit
