@@ -21,15 +21,10 @@ float64[] delta_p_T
 float64[] p_T
 float64[] v_des
 
-float64[] delta_p_force
-float64[] delta_p_vel
-
 float64[] noise_treshold
 float64[] max_forces
 float64[] error_integral
-float64[] f_error_integral
 float64[] joint_times
 
 int8 c_state
-int8 vel_limit
 int8[] joint_states
