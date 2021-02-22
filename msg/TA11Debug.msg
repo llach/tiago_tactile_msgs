@@ -14,11 +14,11 @@ std_msgs/Header header
 
 float64[] k
 float64[] f
-float64[] p
+float64[] q
 float64[] delta_F
-float64[] delta_p
-float64[] delta_p_T
-float64[] p_T
+float64[] delta_q
+float64[] delta_q_T
+float64[] q_T
 float64[] v_des
 
 float64[] noise_treshold
