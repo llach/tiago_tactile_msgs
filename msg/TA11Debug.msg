@@ -28,3 +28,7 @@ float64[] joint_times
 
 int8 c_state
 int8[] joint_states
+
+float64 O_T
+float64 O_t
+float64 delta_O
