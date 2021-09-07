@@ -34,3 +34,4 @@ float64 F_O
 float64 O_T
 float64 O_t
 float64 delta_O
+float64 F_abs
