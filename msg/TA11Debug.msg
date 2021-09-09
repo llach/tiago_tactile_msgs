@@ -35,3 +35,7 @@ float64 O_T
 float64 O_t
 float64 delta_O
 float64 F_abs
+
+float64 cos_grav
+float64 grav_drift
+float64 F_O_corr
