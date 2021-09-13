@@ -20,6 +20,7 @@ float64[] delta_q
 float64[] delta_q_T
 float64[] q_T
 float64[] v_des
+float64[] q_des
 
 float64[] noise_threshold
 float64[] dc_threshold
@@ -30,7 +31,8 @@ float64[] joint_times
 int8 c_state
 int8[] joint_states
 
-float64 F_O
+float64 F_diff
+float64 F_add
 float64 O_T
 float64 O_t
 float64 delta_O
@@ -38,4 +40,5 @@ float64 F_abs
 
 float64 cos_grav
 float64 grav_drift
-float64 F_O_corr
+float64 F_diff_corr
+float64 F_add_corr
